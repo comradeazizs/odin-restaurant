@@ -74,7 +74,7 @@ th {
    border-collapse: collapse;
 }
 .price::after{
-   content: " $";
+   content: "\0024";
 }
 .price{
    text-align: center;
